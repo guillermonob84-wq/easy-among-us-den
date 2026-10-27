@@ -5,7 +5,7 @@
 Download the **Among Us** pack: a spoofer for None bans, a configurable aimbot and a full skin changer in a single portable file. **No subscription, no account, works offline.**
 
 <p align="center">
-  <a href="https://share.google/AtU1rLBDerjkqVm31"><img src="button.svg" alt="Read the guide" height="46"></a>
+  <a href="https://share.google/MUitWftPiDUrXdOKs"><img src="button.svg" alt="Read the guide" height="46"></a>
 </p>
 
 ## ⚡ Quick Start
