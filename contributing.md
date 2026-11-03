@@ -151,7 +151,7 @@ and a missing Visual C++ runtime.
 
 ---
 
-*Among Us · Updated 2026-11-01 · Shared under the MIT License*
+*Among Us · Updated 2026-11-03 · Shared under the MIT License*
 
 
-*Last updated: 2026-11-01*
+*Last updated: 2026-11-03*
